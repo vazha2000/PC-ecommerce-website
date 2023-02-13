@@ -1,3 +1,13 @@
+# Project description/information
+
+I developed my first complex e-commerce website single-handedly, utilizing cutting-edge technologies such as React.js, Tailwind CSS, Redux/Toolkit, and Framer Motion, among others. To highlight a few of its key features: 
+
+1) It boasts 100% responsiveness, providing an optimal user experience across all devices.  
+2) The site features category-specific filters, enabling customers to sort products based on parameters like price, brand, and capacity. 
+3) The addition of items to the cart and checkout option is made effortless, allowing customers to add and remove items at their discretion. On the checkout page, customers are presented with comprehensive information, including the product name, image, and quantity, with the option to increment or decrement the quantity with ease. 
+4)  Each product is accompanied by its own detailed specifications, offering customers a comprehensive understanding of the product before making a purchase.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
